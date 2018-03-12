@@ -27,10 +27,10 @@
     var service = this;
     var toBuyItems = [
       { name: "cookies", quantity: 10 },
-      { name: "milk", quantity: 1 },
-      { name: "chips", quantity: 5},
-      { name: "sugary drinks", quantity: 10 },
-      { name: "peptin bezmo", quantity: 2 }
+      { name: "candy", quantity: 20 },
+      { name: "books", quantity: 5},
+      { name: "pens", quantity: 10 },
+      { name: "cupcakes", quantity: 2 }
     ];
     var boughtItems = [];
 
